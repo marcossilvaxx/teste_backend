@@ -8,7 +8,7 @@ Python 3.6
 ## Instalação
 ```bash
 # Clone o repositório
-$ git clone https://github.com/marcossilvaxx/teste_backend
+$ git clone https://github.com/marcossilvaxx/teste_backend.git
 
 # Acesse o diretório do projeto
 $ cd ./teste_backend
